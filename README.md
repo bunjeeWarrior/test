@@ -1,8 +1,5 @@
 # [(MotionBox #1) Torrent streaming][Chapter1]
 
-## Coding Stream: [Twitch]
-
-
 ## [Episode 1: Bencode parser][Vimeo1] | [Youtube][Youtube1] (May 19 2016)
 
 ### Sky kit
